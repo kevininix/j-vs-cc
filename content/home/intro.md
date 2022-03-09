@@ -1,5 +1,5 @@
 ---
-widget: about.avatar
+widget: about.content/authors/admin/258418582_646040123233615_1512264577935404869_n.jpg
 headless: true
 weight: 10
 author: admin
